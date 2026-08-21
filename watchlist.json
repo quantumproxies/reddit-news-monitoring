@@ -1,0 +1,9 @@
+{
+  "terms": [
+    { "label": "our brand", "query": "quanticdata", "reddit": true, "news": true },
+    { "label": "category", "query": "web scraping api", "reddit": true, "news": true, "subreddit": "webscraping" },
+    { "label": "competitor", "query": "\"serp api\" pricing", "news": true }
+  ],
+  "country": "us",
+  "lang": "en"
+}
